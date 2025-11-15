@@ -60,15 +60,16 @@ Output: **7-class Softmax**
 
 ## 📦 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/face-to-emoji.git
-cd face-to-emoji
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+import tkinter as tk
+from tkinter import *
+import cv2
+from PIL import Image, ImageTk
+import numpy as np
+import tensorflow as tf
+import os
 ```
 
 Recommended versions:
