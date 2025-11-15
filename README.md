@@ -2,6 +2,8 @@
 
 A real-time facial emotion recognition application that uses a webcam feed to detect human emotions and display corresponding emojis. Built using **TensorFlow / Keras**, **OpenCV**, and a responsive **Tkinter GUI**.
 
+📥 Download the dataset (archive) + pretrained model (model.h5) here:
+👉 https://drive.google.com/drive/folders/1hBkzDQOaPHeGf1_iVIjoeg3yJEhy8TRr?usp=drive_link
 ---
 
 ## 🚀 Features
